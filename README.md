@@ -11,7 +11,7 @@ The repository is structured in 3 folders each for one dataset -
   2. MNIST
   3. STL-10
 
-Each folder contains 5 files - 
+Each folder contains 4 files - 
   1. A dataset processor notebook
   2. A KMeans clustering notebook
   3. A DBSCAN clustering notebook
