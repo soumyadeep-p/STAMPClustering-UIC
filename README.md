@@ -16,4 +16,3 @@ Each folder contains 5 files -
   2. A KMeans clustering notebook
   3. A DBSCAN clustering notebook
   4. A STAMPClustering notebook
-  5. A processed dataset
