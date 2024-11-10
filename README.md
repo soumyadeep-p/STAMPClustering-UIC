@@ -33,16 +33,17 @@ Please download the pre-processed datasets from the following links:
 
 | **Method**      | **Dataset** | **ACC** | **NMI** | **ARI** |
 |-----------------|-------------|---------|---------|---------|
-| KMeans [1]      | CIFAR-10    | 61.0    | 53.0    | 41.0    |
-| DBSCAN [2]      | CIFAR-10    | 10.2    | 0.1     | 1.2     |
-| SCAN [3]        | CIFAR-10    | **88.3**| **79.7**| **77.2**|
+| KMeans          | CIFAR-10    | 61.0    | 53.0    | 41.0    |
+| DBSCAN          | CIFAR-10    | 10.2    | 0.1     | 1.2     |
+| SCAN            | CIFAR-10    | **88.3**| **79.7**| **77.2**|
 | **Our Model**   | CIFAR-10    | 76.6    | 67.6    | 65.5    |
-| KMeans [1]      | STL-10      | 95.1    | 90.7    | 89.4    |
-| DBSCAN [2]      | STL-10      | 36.3    | 54.5    | 30.4    |
-| SCAN [3]        | STL-10      | 80.9    | 69.8    | 64.6    |
+| KMeans          | STL-10      | 95.1    | 90.7    | 89.4    |
+| DBSCAN          | STL-10      | 36.3    | 54.5    | 30.4    |
+| SCAN            | STL-10      | 80.9    | 69.8    | 64.6    |
 | **Our Model**   | STL-10      | **95.7**| **91.8**| **91.8**|
-| KMeans [1]      | MNIST       | 34.4    | **32.9**| **18.3**|
-| DBSCAN [2]      | MNIST       | 11.3    | 0.2     | 0.0     |
+| KMeans          | MNIST       | 34.4    | **32.9**| **18.3**|
+| DBSCAN          | MNIST       | 11.3    | 0.2     | 0.0     |
 | **Our Model**   | MNIST       | **36.7**| 28.6    | 18.0    |
 
 *Table 1: State of the Art Comparison*
+
